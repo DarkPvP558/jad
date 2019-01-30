@@ -1,6 +1,6 @@
-token=NTI2MjA0NzIwMjE0MzEwOTI1.Dy1Rfw.yO0pJuZpVci-4pxXNc2ZOG7sbzg
-owner=476188949291991060 
-prefix=/
-game=TheShadowzMusic
+token=NTQwMjg1Mjk4MTkwNTgxNzcw.DzOslw.v5ls5V22l0wNb-vo7JNGFqNgasA
+owner=317623572820525056
+prefix=J
+game=JadBOT
 stayinchannel=true
 songinstatus=false
